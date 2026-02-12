@@ -6,3 +6,6 @@
 
 ### کلون صدا Pocket_TTS 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yaranbarzi/AiNotebook/blob/main/Pocket_TTS.ipynb)
+
+### جداساز صدا از موزیک
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yaranbarzi/AiNotebook/blob/main/UVR5_2026.ipynb)
