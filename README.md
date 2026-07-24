@@ -9,3 +9,7 @@
 
 ### جداساز صدا از موزیک
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yaranbarzi/AiNotebook/blob/main/UVR5_2026.ipynb)
+
+
+### استخراج زیرنویس فیلم
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yaranbarzi/AiNotebook/blob/main/SRT_Transcribe.ipynb)
