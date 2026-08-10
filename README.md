@@ -13,3 +13,9 @@
 
 ### استخراج زیرنویس فیلم
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yaranbarzi/AiNotebook/blob/main/SRT_Transcribe.ipynb)
+
+
+
+### ترجمه زیرنویس فیلم
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yaranbarzi/AiNotebook/blob/main/SRT_Translate2026.ipynb)
+
