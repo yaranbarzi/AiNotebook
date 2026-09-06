@@ -25,3 +25,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yaranbarzi/AiNotebook/blob/main/Final_TTS.ipynb)
 
 
+
+### تیدیل متن به صدا تایم بالا  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yaranbarzi/AiNotebook/blob/main/SF.ipynb)
+
