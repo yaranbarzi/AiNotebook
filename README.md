@@ -26,6 +26,6 @@
 
 
 
-### تیدیل متن به صدا تایم بالا  
+### سواپ  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yaranbarzi/AiNotebook/blob/main/SF.ipynb)
 
