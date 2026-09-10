@@ -29,3 +29,11 @@
 ### سواپ  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yaranbarzi/AiNotebook/blob/main/SF.ipynb)
 
+
+
+### Wav2lip
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yaranbarzi/AiNotebook/blob/main/WavtoLip2026.ipynb)
+
+
+
+
