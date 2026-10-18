@@ -43,3 +43,11 @@
 
 ### Video Enhancer
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yaranbarzi/AiNotebook/blob/main/VideoEnhancer2026.ipynb)
+
+
+
+### Faster_Whisper
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yaranbarzi/AiNotebook/blob/main/faster_whisper.ipynb)
+
+
+
