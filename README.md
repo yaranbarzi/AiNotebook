@@ -56,3 +56,6 @@
 
 
 
+### Subtitle_Sync.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yaranbarzi/AiNotebook/blob/main/Subtitle_Sync.ipynb)
+
